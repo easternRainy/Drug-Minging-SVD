@@ -1,0 +1,1012 @@
+Drug name,Drug Drugbank id,Disease Name,Disease Mesh ID,Drug action,Function,Medical genetics based prediction
+Abarelix,DB00106,Fertile eunuch syndrome,C537919,Antagonist,LOF,side effect
+Abarelix,DB00106,Hypogonadotropic hypogonadism,D007006,Antagonist,LOF,side effect
+Acebutolol,DB01193,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Acenocoumarol,DB01418,Vitamin K-dependent clotting factors deficiency,C564741,Inhibitor,LOF,side effect
+Acetazolamide,DB00819,Osteopetrosis,D010022,Inhibitor,LOF,side effect
+Acetohexamide,DB00414,SESAME syndrome,not available,Inhibitor,LOF,side effect
+Acetophenazine,DB01063,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Acitretin,DB00459,Acute promyelocytic leukemia,D015473,Agonist,GOF,side effect
+Acitretin,DB00459,Hyper-IgE recurrent infection syndrome,not available,Inhibitor,LOF,side effect
+Adalimumab,DB00051,Asthma,D001249,Inhibitor,GOF,therapeutic effect
+Adalimumab,DB00051,Vascular dementia,D015140,Inhibitor,GOF,therapeutic effect
+Adapalene,DB00210,Acute promyelocytic leukemia,D015473,Agonist,GOF,side effect
+Adinazolam,DB00546,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Adinazolam,DB00546,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Alclometasone,DB00240,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Aldesleukin,DB00041,"Interleukin-2 receptor, alpha chain deficiency",not available,Agonist,LOF,therapeutic effect
+Aldesleukin,DB00041,Type 1 diabetes mellitus,D003922,Agonist,LOF,therapeutic effect
+Aliskiren,DB01258,Hyperuricemic nephropathy,not available,Inhibitor,LOF,side effect
+Aliskiren,DB01258,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Alitretinoin,DB00523,Acute promyelocytic leukemia,D015473,Agonist,GOF,side effect
+Alpha-1-proteinase inhibitor,DB00058,Severe congenital neutropenia,C537592,Inhibitor,LOF,side effect
+Alprazolam,DB00404,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Alprazolam,DB00404,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Alprenolol,DB00866,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Alprostadil,DB00770,Asthma,D001249,Agonist,LOF,therapeutic effect
+Amcinonide,DB00288,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Amiloride,DB00594,Bronchiectasis,D001987,Inhibitor,GOF,therapeutic effect
+Amiloride,DB00594,"Pseudohypoaldosteronism, type I",D011546,Inhibitor,LOF,side effect
+Aminoglutethimide,DB00357,Aromatase deficiency,C537436,Inhibitor,LOF,side effect
+Aminoglutethimide,DB00357,Aromatase excess syndrome,C537436,Inhibitor,GOF,therapeutic effect
+Aminolevulinic acid,DB00855,Acute hepatic porphyria,C562618,Inhibitor,LOF,side effect
+Aminopterin,not available,Megaloblastic anemia due to dihydrofolate reductase deficiency,D000749,Inhibitor,LOF,side effect
+Amiodarone,DB01118,Long QT syndrome-2,C563614,Inhibitor,LOF,side effect
+Amiodarone,DB01118,Short QT syndrome-1,C566506,Inhibitor,GOF,therapeutic effect
+Amisulpride,DB06288,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Amobarbital,DB01351,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Amobarbital,DB01351,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Amphetamine,DB00182,"Parkinsonism-dystonia, infantile",D020734,Inhibitor,LOF,side effect
+Anastrozole,DB01217,Aromatase deficiency,C537436,Inhibitor,LOF,side effect
+Anastrozole,DB01217,Aromatase excess syndrome,C537436,Inhibitor,GOF,therapeutic effect
+Anisindione,DB01125,Vitamin K-dependent clotting factors deficiency,C564741,Inhibitor,LOF,side effect
+Anisotropine methylbromide,DB00517,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Apomorphine,DB00714,Myoclonus-dystonia syndrome,D020820,Agonist,LOF,therapeutic effect
+Arformoterol,DB01274,Asthma,D001249,Agonist,LOF,therapeutic effect
+Argatroban,DB00278,Dysprothrombinemia,C562724,Inhibitor,LOF,side effect
+Argatroban,DB00278,Hypoprothrombinemia,D007020,Inhibitor,LOF,side effect
+Argatroban,DB00278,"Stroke, ischemic",not available,Inhibitor,LOF,side effect
+Argatroban,DB00278,Thrombophilia due to thrombin defect,D020151,Inhibitor,LOF,side effect
+Aripiprazole,DB01238,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Atenolol,DB00335,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Atracurium,DB00732,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Atropine,DB00572,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Barbital,DB01483,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Barbital,DB01483,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Barbituric acid,DB01496,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Barbituric acid,DB01496,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Basiliximab,DB00074,"Interleukin-2 receptor, alpha chain deficiency",not available,Antagonist,LOF,side effect
+Basiliximab,DB00074,Type 1 diabetes mellitus,D003922,Antagonist,LOF,side effect
+Beclomethasone,DB00394,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Benazepril,DB00542,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Benazepril,DB00542,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Benazepril,DB00542,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Benazepril,DB00542,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Benazepril,DB00542,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Bendroflumethiazide,DB00436,Bartter syndrome type 1,C537652,Inhibitor,LOF,side effect
+Bendroflumethiazide,DB00436,Gitelman syndrome,D053579,Inhibitor,LOF,side effect
+Benzonatate,DB00868,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Benzonatate,DB00868,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Benzonatate,DB00868,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Benzonatate,DB00868,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Benzonatate,DB00868,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Benzonatate,DB00868,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Benzthiazide,DB00562,Osteopetrosis,D010022,Inhibitor,LOF,side effect
+Bepridil,DB01244,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Bepridil,DB01244,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Bepridil,DB01244,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Bepridil,DB01244,Jervell and Lange-Nielsen syndrome,D029593,Inhibitor,LOF,side effect
+Bepridil,DB01244,Long QT syndrome-1,C566006,Inhibitor,LOF,side effect
+Bepridil,DB01244,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Bepridil,DB01244,Short QT syndrome-2,C566505,Inhibitor,GOF,therapeutic effect
+Bepridil,DB01244,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Bepridil,DB01244,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Betamethasone,DB00443,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Betaxolol,DB00195,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Bicalutamide,DB01128,Androgen insensitivity,D013734,Antagonist,LOF,side effect
+Biperiden,DB00810,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Bisoprolol,DB00612,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Bivalirudin,DB00006,Dysprothrombinemia,C562724,Inhibitor,LOF,side effect
+Bivalirudin,DB00006,Hypoprothrombinemia,D007020,Inhibitor,LOF,side effect
+Bivalirudin,DB00006,"Stroke, ischemic",not available,Inhibitor,LOF,side effect
+Bivalirudin,DB00006,Thrombophilia due to thrombin defect,D020151,Inhibitor,LOF,side effect
+Bosentan,DB00559,ABCD syndrome,C535334,Antagonist,LOF,side effect
+Bosentan,DB00559,Hirschsprung disease,D006627,Antagonist,LOF,side effect
+Bosentan,DB00559,"Waardenburg syndrome, type 4A",C536467,Antagonist,LOF,side effect
+Brinzolamide,DB01194,Osteopetrosis,D010022,Inhibitor,LOF,side effect
+Bromazepam,DB01558,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Bromazepam,DB01558,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Bromocriptine,DB01200,Myoclonus-dystonia syndrome,D020820,Agonist,LOF,therapeutic effect
+Budesonide,DB01222,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Bumetanide,DB00887,Bartter syndrome type 1,C537652,Inhibitor,LOF,side effect
+Buspirone,DB00490,Myoclonus-dystonia syndrome,D020820,Agonist,LOF,therapeutic effect
+Butabarbital,DB00237,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Butabarbital,DB00237,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Butalbital,DB00241,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Butalbital,DB00241,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Butethal,DB01353,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Butethal,DB01353,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Cabergoline,DB00248,Myoclonus-dystonia syndrome,D020820,Agonist,LOF,therapeutic effect
+Calcipotriol,DB02300,"Rickets, vitamin D-resistant, type IIA",D053098,Agonist,LOF,therapeutic effect
+Candesartan cilexetil,DB00796,"Mental retardation, X-linked",D038901,Antagonist,LOF,side effect
+Candesartan,DB00796,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Candoxatril,DB00616,"Membranous glomerulonephritis, antenatal",D005921,Inhibitor,LOF,side effect
+Candoxatril,DB00616,Neutral endopeptidase deficiency,D053402,Inhibitor,LOF,side effect
+Captopril,DB01197,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Captopril,DB01197,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Captopril,DB01197,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Captopril,DB01197,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Captopril,DB01197,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Carbachol,DB00411,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Agonist,GOF,side effect
+Carbamazepine,DB00564,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Carbamazepine,DB00564,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Carbamazepine,DB00564,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Carbamazepine,DB00564,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Carbamazepine,DB00564,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Carbamazepine,DB00564,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Carbidopa,DB00190,Aromatic L-amino acid decarboxylase deficiency,C537437,Inhibitor,LOF,side effect
+Carbimazole,DB00389,Thyroid dyshormonogenesis 2A,not available,Inhibitor,LOF,side effect
+Carboprost Tromethamine,DB00429,Asthma,D001249,Agonist,LOF,therapeutic effect
+Carphenazine,DB01038,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Carteolol,DB00521,Asthma,D001249,Antagonist,LOF,side effect
+Carteolol,DB00521,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Carvedilol,DB01136,Asthma,D001249,Antagonist,LOF,side effect
+Cetrorelix,DB00050,Fertile eunuch syndrome,C537919,Antagonist,LOF,side effect
+Cetrorelix,DB00050,Hypogonadotropic hypogonadism,D007006,Antagonist,LOF,side effect
+Cetuximab,DB00002,Nonsmall cell lung cancer,D002289,Inhibitor,GOF,therapeutic effect
+Cevimeline,DB00185,Eagle-Barrett syndrome,D011535,Agonist,LOF,therapeutic effect
+Chlordiazepoxide,DB00475,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Chlordiazepoxide,DB00475,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Chlormerodrin,DB00534,Succinic semialdehyde dehydrogenase deficiency,C535803,Inhibitor,LOF,side effect
+Chlorothiazide,DB00880,Gitelman syndrome,D053579,Inhibitor,LOF,side effect
+Chlorothiazide,DB00880,Osteopetrosis,D010022,Inhibitor,LOF,side effect
+Chlorotrianisene,DB00269,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Chlorotrianisene,DB00269,Breast cancer,D001943,Agonist,GOF,side effect
+Chlorotrianisene,DB00269,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Chlorotrianisene,DB00269,Migraine,D008881,Agonist,LOF,therapeutic effect
+Chlorotrianisene,DB00269,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Chlorpromazine,DB00477,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Chlorpropamide,DB00672,SESAME syndrome,not available,Inhibitor,LOF,side effect
+Chlorprothixene,DB01239,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Chlorthalidone,DB00310,Bartter syndrome type 1,C537652,Inhibitor,LOF,side effect
+Choriogonadotropin alfa,DB00097,Leydig cell adenoma,D007984,Agonist,GOF,side effect
+Choriogonadotropin alfa,DB00097,Leydig cell hypoplasia,not available,Agonist,LOF,therapeutic effect
+Choriogonadotropin alfa,DB00097,"Luteinizing hormone resistance, female",D007986,Agonist,LOF,therapeutic effect
+Choriogonadotropin alfa,DB00097,"Precocious puberty, male",D011629,Agonist,GOF,side effect
+Ciclesonide,DB01410,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Cilazapril,DB01340,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Cilazapril,DB01340,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Cilazapril,DB01340,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Cilazapril,DB01340,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Cilazapril,DB01340,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Cinacalcet,DB01012,"Epilepsy, idiopathic generalized",C562694,Agonist,LOF,therapeutic effect
+Cinacalcet,DB01012,"Hypocalcemia, autosomal dominant",C563374,Agonist,GOF,side effect
+Cinolazepam,DB01594,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Cinolazepam,DB01594,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Cisatracurium besylate,DB00565,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Cladribine,DB00242,Adenosine deaminase deficiency,C531816,Inhibitor,LOF,side effect
+Clobetasol,DB01013,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Clocortolone,DB00838,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Clodronate,DB00720,"Cardiomyopathy, familial hypertrophic",D024741,Inhibitor,LOF,side effect
+Clodronate,DB00720,Progressive external ophthalmoplegia,D017246,Inhibitor,LOF,side effect
+Clomifene,DB00882,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Clomifene,DB00882,Breast cancer,D001943,Agonist,GOF,side effect
+Clomifene,DB00882,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Clomifene,DB00882,Migraine,D008881,Agonist,LOF,therapeutic effect
+Clomifene,DB00882,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Clopidogrel,DB00758,"Bleeding disorder, platelet-type",C565129,Antagonist,LOF,side effect
+Clorazepate,DB00628,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Clorazepate,DB00628,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Clorgyline,not available,Brunner syndrome,C563156,Inhibitor,LOF,side effect
+Clozapine,DB00363,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Cocaine,DB00907,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Cocaine,DB00907,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Cocaine,DB00907,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Cocaine,DB00907,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Cocaine,DB00907,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Cocaine,DB00907,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Conivaptan,DB00872,Diabetes insipidus,D003919,Antagonist,LOF,side effect
+Cyclobenzaprine,DB00924,Schizophrenia,D012559,Antagonist,GOF,side effect
+Cyclothiazide,DB00606,Osteopetrosis,D010022,Inhibitor,LOF,side effect
+Cyproheptadine,DB00434,Schizophrenia,D012559,Antagonist,GOF,side effect
+Cyproterone,DB04839,Androgen insensitivity,D013734,Antagonist,LOF,side effect
+Dabigatran,DB06695,Dysprothrombinemia,C562724,Inhibitor,LOF,side effect
+Dabigatran,DB06695,Hypoprothrombinemia,D007020,Inhibitor,LOF,side effect
+Dabigatran,DB06695,"Stroke, ischemic",not available,Inhibitor,LOF,side effect
+Dabigatran,DB06695,Thrombophilia due to thrombin defect,D020151,Inhibitor,LOF,side effect
+Daclizumab,DB00111,"Interleukin-2 receptor, alpha chain deficiency",not available,Antagonist,LOF,side effect
+Daclizumab,DB00111,Type 1 diabetes mellitus,D003922,Antagonist,LOF,side effect
+Dalfampridine,not available,"Familial hyperaldosteronism, type III",C565312,Inhibitor,GOF,therapeutic effect
+Dalfampridine,not available,Long QT syndrome,D008133,Inhibitor,LOF,side effect
+Danaparoid,not available,Factor X deficiency,not available,Inhibitor,LOF,side effect
+Dantrolene,DB01219,Central core disease,D020512,Antagonist,GOF,side effect
+Darifenacin,DB00496,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Dasatinib,DB01254,Acute myeloid leukemia,D015470,Inhibitor,GOF,therapeutic effect
+Dasatinib,DB01254,Colon cancer,D003110,Inhibitor,GOF,therapeutic effect
+Dasatinib,DB01254,Gastrointestinal stromal tumor,D046152,Inhibitor,GOF,therapeutic effect
+Dasatinib,DB01254,Germ cell tumors,D009373,Inhibitor,GOF,therapeutic effect
+Dasatinib,DB01254,Mast cell leukemia,D007938,Inhibitor,GOF,therapeutic effect
+Dasatinib,DB01254,Mastocytosis,D008415,Inhibitor,GOF,therapeutic effect
+Dasatinib,DB01254,Piebaldism,D016116,Inhibitor,LOF,side effect
+Dasatinib,DB01254,Severe combined immunodeficiency due to LCK deficiency,D016511,Inhibitor,LOF,side effect
+Decamethonium,DB01245,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Degarelix,DB06699,Fertile eunuch syndrome,C537919,Antagonist,LOF,side effect
+Degarelix,DB06699,Hypogonadotropic hypogonadism,D007006,Antagonist,LOF,side effect
+Demecarium bromide,DB00944,"Apnea, postanesthetic",C535825,Inhibitor,LOF,side effect
+Denileukin diftitox,DB00004,"Interleukin-2 receptor, alpha chain deficiency",not available,Binder,LOF,side effect
+Denileukin diftitox,DB00004,Type 1 diabetes mellitus,D003922,Binder,LOF,side effect
+Deserpidine,DB01089,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Deserpidine,DB01089,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Deserpidine,DB01089,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Deserpidine,DB01089,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Deserpidine,DB01089,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Desflurane,DB01189,Childhood absence epilepsy,D004832,Antagonist,LOF,side effect
+Desflurane,DB01189,Juvenile myoclonic epilepsy,not available,Antagonist,LOF,side effect
+Desonide,DB01260,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Desoximetasone,DB00547,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Desoxycorticosterone Pivalate,DB01134,Hypertension,D006973,Agonist,GOF,side effect
+Desoxycorticosterone Pivalate,DB01134,Pseudohypoaldosteronism type I,D011546,Agonist,LOF,therapeutic effect
+Dexamethasone,DB01234,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Dextroamphetamine,DB01576,"Parkinsonism-dystonia, infantile",D020734,Inhibitor,LOF,side effect
+Dextromethorphan,DB00514,Amyotrophic lateral sclerosis,D000690,Agonist,LOF,therapeutic effect
+Diazepam,DB00829,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Diazepam,DB00829,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Diazoxide,DB01119,Gitelman syndrome,D053579,Inhibitor,LOF,side effect
+Dibucaine,DB00527,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Dibucaine,DB00527,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Dibucaine,DB00527,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Dibucaine,DB00527,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Dibucaine,DB00527,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Dibucaine,DB00527,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Dicumarol,DB00266,Vitamin K-dependent clotting factors deficiency,C564741,Inhibitor,LOF,side effect
+Dienestrol,DB00890,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Dienestrol,DB00890,Breast cancer,D001943,Agonist,GOF,side effect
+Dienestrol,DB00890,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Dienestrol,DB00890,Migraine,D008881,Agonist,LOF,therapeutic effect
+Dienestrol,DB00890,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Diethylstilbestrol,DB00255,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Diethylstilbestrol,DB00255,Breast cancer,D001943,Agonist,GOF,side effect
+Diethylstilbestrol,DB00255,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Diethylstilbestrol,DB00255,Migraine,D008881,Agonist,LOF,therapeutic effect
+Diethylstilbestrol,DB00255,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Diflorasone,DB00223,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Dihydroergotoxine,DB01287,Myoclonus-dystonia syndrome,D020820,Agonist,LOF,therapeutic effect
+Dihydroxyaluminium,DB01375,"Cardiomyopathy, dilated",D002311,Agonist,LOF,therapeutic effect
+Dihydroxyaluminium,DB01375,"Cardiomyopathy, familial hypertrophic",D024741,Agonist,GOF,side effect
+Dinoprostone,DB00917,Asthma,D001249,Agonist,LOF,therapeutic effect
+Diphemanil Methylsulfate,DB00729,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Diphenidol,DB01231,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Dipyridamole,DB00975,Adenosine deaminase deficiency,C531816,Inhibitor,LOF,side effect
+Disopyramide,DB00280,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Disopyramide,DB00280,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Disopyramide,DB00280,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Disopyramide,DB00280,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Disopyramide,DB00280,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Disopyramide,DB00280,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Divalproex sodium,DB00510,GABA-transaminase deficiency,not available,Inhibitor,LOF,side effect
+Dofetilide,DB00204,Long QT syndrome-2,C563614,Inhibitor,LOF,side effect
+Dofetilide,DB00204,Short QT syndrome-1,C566506,Inhibitor,GOF,therapeutic effect
+Domperidone maleate,DB01184,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Dopamine,DB00988,Myoclonus-dystonia syndrome,D020820,Agonist,LOF,therapeutic effect
+Dorzolamide,DB00869,Osteopetrosis,D010022,Inhibitor,LOF,side effect
+Doxacurium chloride,DB01135,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Dromostanolone,DB00858,Androgen insensitivity,D013734,Agonist,LOF,therapeutic effect
+Dromostanolone,DB00858,Prostate cancer,D011471,Agonist,GOF,side effect
+Droperidol,DB00450,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Drospirenone,DB01395,Hypertension,D006973,Antagonist,GOF,side effect
+Drospirenone,DB01395,Pseudohypoaldosteronism type I,D011546,Antagonist,LOF,side effect
+Drotrecogin alfa,DB00055,Budd-Chiari syndrome,D006502,Inhibitor,GOF,therapeutic effect
+Drotrecogin alfa,DB00055,Factor V deficiency,D005166,Inhibitor,LOF,side effect
+Drotrecogin alfa,DB00055,Hemophilia A,D006467,Inhibitor,LOF,side effect
+Drotrecogin alfa,DB00055,"Stroke, ischemic",not available,Inhibitor,GOF,therapeutic effect
+Drotrecogin alfa,DB00055,Thrombophilia,D019851,Inhibitor,GOF,therapeutic effect
+Dyclonine,DB00645,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Dyclonine,DB00645,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Dyclonine,DB00645,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Dyclonine,DB00645,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Dyclonine,DB00645,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Dyclonine,DB00645,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Echothiophate Iodide,DB01057,"Apnea, postanesthetic",C535825,Inhibitor,LOF,side effect
+Eculizumab,DB01257,C5 deficiency,C537880,Antibody,LOF,side effect
+Enalapril,DB00584,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Enalapril,DB00584,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Enalapril,DB00584,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Enalapril,DB00584,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Enalapril,DB00584,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Enalaprilat,DB00584,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Enalaprilat,DB00584,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Enalaprilat,DB00584,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Enalaprilat,DB00584,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Enalaprilat,DB00584,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Encainide,DB01228,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Encainide,DB01228,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Encainide,DB01228,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Encainide,DB01228,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Encainide,DB01228,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Encainide,DB01228,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Enflurane,DB00228,Childhood absence epilepsy,D004832,Antagonist,LOF,side effect
+Enflurane,DB00228,Juvenile myoclonic epilepsy,not available,Antagonist,LOF,side effect
+Enoxaparin,DB01225,Factor X deficiency,not available,Inhibitor,LOF,side effect
+Entacapone,DB00494,Schizophrenia,D012559,Inhibitor,LOF,side effect
+Epinephrine,DB00668,Asthma,D001249,Agonist,LOF,therapeutic effect
+Epinephrine,DB00668,Congestive heart failure,D006333,Agonist,GOF,side effect
+Eplerenone,DB00700,Pseudohypoaldosteronism type I,D011546,Antagonist,LOF,side effect
+Eprosartan mesylate,DB00876,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Eprosartan,DB00876,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Esmolol,DB00187,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Estazolam,DB01215,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Estazolam,DB01215,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Estradiol,DB00783,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Estradiol,DB00783,Breast cancer,D001943,Agonist,GOF,side effect
+Estradiol,DB00783,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Estradiol,DB00783,Migraine,D008881,Agonist,LOF,therapeutic effect
+Estradiol,DB00783,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Estriol,DB04573,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Estriol,DB04573,Breast cancer,D001943,Agonist,GOF,side effect
+Estriol,DB04573,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Estriol,DB04573,Migraine,D008881,Agonist,LOF,therapeutic effect
+Estriol,DB04573,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Estrone,DB00655,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Estrone,DB00655,Breast cancer,D001943,Agonist,GOF,side effect
+Estrone,DB00655,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Estrone,DB00655,Migraine,D008881,Agonist,LOF,therapeutic effect
+Estrone,DB00655,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Etanercept,DB00005,Asthma,D001249,Inhibitor,GOF,therapeutic effect
+Etanercept,DB00005,Vascular dementia,D015140,Inhibitor,GOF,therapeutic effect
+Ethacrynic acid,DB00903,Bartter syndrome type 1,C537652,Inhibitor,LOF,side effect
+Ethanol,DB00898,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Ethanol,DB00898,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Ethchlorvynol,DB00189,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Ethchlorvynol,DB00189,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Ethinamate,DB01031,Osteopetrosis,D010022,Inhibitor,LOF,side effect
+Ethinyl Estradiol,DB00977,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Ethinyl Estradiol,DB00977,Breast cancer,D001943,Agonist,GOF,side effect
+Ethinyl Estradiol,DB00977,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Ethinyl Estradiol,DB00977,Migraine,D008881,Agonist,LOF,therapeutic effect
+Ethinyl Estradiol,DB00977,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Ethotoin,DB00754,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Ethotoin,DB00754,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Ethotoin,DB00754,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Ethotoin,DB00754,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Ethotoin,DB00754,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Ethotoin,DB00754,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Ethynodiol diacetate,DB00823,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Ethynodiol diacetate,DB00823,Breast cancer,D001943,Agonist,GOF,side effect
+Ethynodiol diacetate,DB00823,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Ethynodiol diacetate,DB00823,Migraine,D008881,Agonist,LOF,therapeutic effect
+Ethynodiol diacetate,DB00823,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Exemestane,DB00990,Aromatase deficiency,C537436,Inhibitor,LOF,side effect
+Exemestane,DB00990,Aromatase excess syndrome,C537436,Inhibitor,GOF,therapeutic effect
+Filgrastim,DB00099,Leukoencephalopathy,D056784,Agonist,LOF,therapeutic effect
+Flecainide,DB01195,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Flecainide,DB01195,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Flecainide,DB01195,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Flecainide,DB01195,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Flecainide,DB01195,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Flecainide,DB01195,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Fludrocortisone,DB00687,Hypertension,D006973,Agonist,GOF,side effect
+Fludrocortisone,DB00687,Pseudohypoaldosteronism type I,D011546,Agonist,LOF,therapeutic effect
+Flumazenil,DB01205,Childhood absence epilepsy,D004832,Antagonist,LOF,side effect
+Flumazenil,DB01205,Juvenile myoclonic epilepsy,not available,Antagonist,LOF,side effect
+Flumethasone Pivalate,DB00663,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Flunisolide,DB00180,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Fluocinolone Acetonide,DB00591,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Fluocinonide,DB01047,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Fluorometholone,DB00324,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Fluoxymesterone,DB01185,Androgen insensitivity,D013734,Agonist,LOF,therapeutic effect
+Fluoxymesterone,DB01185,Prostate cancer,D011471,Agonist,GOF,side effect
+Flupenthixol,DB00875,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Fluphenazine,DB00623,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Flurandrenolide,DB00846,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Flurazepam,DB00690,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Flurazepam,DB00690,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Fluspirilene,DB04842,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Flutamide,DB00499,Androgen insensitivity,D013734,Antagonist,LOF,side effect
+Fluticasone Propionate,DB00588,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Fluticasone,DB00588,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Fondaparinux sodium,DB00569,Factor X deficiency,not available,Inhibitor,LOF,side effect
+Forasartan,DB01342,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Fosinopril,DB00492,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Fosinopril,DB00492,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Fosinopril,DB00492,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Fosinopril,DB00492,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Fosinopril,DB00492,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Fosphenytoin,DB01320,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Fosphenytoin,DB01320,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Fosphenytoin,DB01320,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Fosphenytoin,DB01320,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Fosphenytoin,DB01320,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Fosphenytoin,DB01320,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Fulvestrant,DB00947,Atherosclerosis,D050197,Antagonist,LOF,side effect
+Fulvestrant,DB00947,Estrogen resistance,not available,Antagonist,LOF,side effect
+Fulvestrant,DB00947,Migraine,D008881,Antagonist,LOF,side effect
+Fulvestrant,DB00947,Myocardial infarction,D009203,Antagonist,LOF,side effect
+Furosemide,DB00695,Bartter syndrome type 1,C537652,Inhibitor,LOF,side effect
+Gallamine triethiodide,DB00483,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Gallium nitrate,DB05260,Gastric cancer risk after H. pylori infection,not available,Antagonist,GOF,side effect
+Ganirelix,not available,Fertile eunuch syndrome,C537919,Antagonist,LOF,side effect
+Ganirelix,not available,Hypogonadotropic hypogonadism,D007006,Antagonist,LOF,side effect
+Glibenclamide,DB01016,"Familial hyperaldosteronism, type III",C565312,Inhibitor,GOF,therapeutic effect
+Glibenclamide,DB01016,Long QT syndrome,D008133,Inhibitor,LOF,side effect
+Glipizide,DB01067,SESAME syndrome,not available,Inhibitor,LOF,side effect
+Gliquidone,DB01251,SESAME syndrome,not available,Inhibitor,LOF,side effect
+Glisoxepide,DB01289,SESAME syndrome,not available,Inhibitor,LOF,side effect
+Glucosamine,DB01296,Gastric cancer risk after H. pylori infection,not available,Inhibitor,GOF,therapeutic effect
+Glutethimide,DB01437,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Glutethimide,DB01437,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Glycine,DB00145,Epilepsy,D004827,Antagonist,LOF,side effect
+Glycodiazine,DB01382,SESAME syndrome,not available,Inhibitor,LOF,side effect
+Gonadorelin,DB00644,Fertile eunuch syndrome,C537919,Agonist,LOF,therapeutic effect
+Goserelin,DB00014,Fertile eunuch syndrome,C537919,Agonist,LOF,therapeutic effect
+Goserelin,DB00014,Hypogonadotropic hypogonadism,D007006,Agonist,LOF,therapeutic effect
+Halazepam,DB00801,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Halazepam,DB00801,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Halobetasol Propionate,DB00596,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Haloperidol,DB00502,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Hexafluronium bromide,DB00941,"Apnea, postanesthetic",C535825,Inhibitor,LOF,side effect
+Hexobarbital,DB01355,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Hexobarbital,DB01355,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Hexylcaine,DB00473,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Hexylcaine,DB00473,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Hexylcaine,DB00473,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Hexylcaine,DB00473,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Hexylcaine,DB00473,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Hexylcaine,DB00473,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Homatropine methylbromide,DB00725,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Hydrochlorothiazide,DB00999,Gitelman syndrome,D053579,Inhibitor,LOF,side effect
+Hydrocortamate,DB00769,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Hydrocortisone,DB00741,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Hydroflumethiazide,DB00774,Bartter syndrome type 1,C537652,Inhibitor,LOF,side effect
+Hydroxocobalamin,DB00200,"Methylmalonic aciduria, mut(0) type",C535702,Agonist,LOF,therapeutic effect
+Hydroxyflutamide,not available,Androgen insensitivity,D013734,Antagonist,LOF,side effect
+Ibritumomab,DB00078,"Immunodeficiency, common variable",not available,Antibody,LOF,side effect
+Ibutilide,DB00308,Brugada syndrome,D053840,Agonist,LOF,therapeutic effect
+Ibutilide,DB00308,Timothy syndrome,not available,Agonist,GOF,side effect
+Ibutilide,DB00308,Long QT syndrome-2,C563614,Inhibitor,LOF,side effect
+Ibutilide,DB00308,Short QT syndrome-1,C566506,Inhibitor,GOF,therapeutic effect
+Iloprost,DB01088,Asthma,D001249,Agonist,LOF,therapeutic effect
+Imatinib,DB00619,Acute myeloid leukemia,D015470,Antagonist,GOF,side effect
+Imatinib,DB00619,Germ cell tumors,D009373,Antagonist,GOF,side effect
+Imatinib,DB00619,Mast cell leukemia,D007938,Antagonist,GOF,side effect
+Imatinib,DB00619,Mastocytosis,D008415,Antagonist,GOF,side effect
+Imatinib,DB00619,Piebaldism,D016116,Antagonist,LOF,side effect
+Indapamide,DB00808,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Indapamide,DB00808,Jervell and Lange-Nielsen syndrome,D029593,Inhibitor,LOF,side effect
+Indapamide,DB00808,Long QT syndrome-1,C566006,Inhibitor,LOF,side effect
+Indapamide,DB00808,Short QT syndrome-2,C566505,Inhibitor,GOF,therapeutic effect
+Indecainide,DB00192,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Indecainide,DB00192,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Indecainide,DB00192,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Indecainide,DB00192,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Indecainide,DB00192,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Indecainide,DB00192,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Infliximab,DB00065,Asthma,D001249,Inhibitor,GOF,therapeutic effect
+Infliximab,DB00065,Vascular dementia,D015140,Inhibitor,GOF,therapeutic effect
+Insulin Lyspro recombinant,not available,Donohue syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin Lyspro recombinant,not available,Rabson-Mendenhall syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin recombinant,DB00030,Donohue syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin recombinant,DB00030,Rabson-Mendenhall syndrome,D056731,Agonist,LOF,therapeutic effect
+"Insulin, porcine",DB00071,Donohue syndrome,D056731,Agonist,LOF,therapeutic effect
+"Insulin, porcine",DB00071,Rabson-Mendenhall syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin-aspart,DB01306,Donohue syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin-aspart,DB01306,Rabson-Mendenhall syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin-detemir,DB01307,Donohue syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin-detemir,DB01307,Rabson-Mendenhall syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin-glargine,DB00047,Donohue syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin-glargine,DB00047,Rabson-Mendenhall syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin-glulisine,DB01309,Donohue syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin-glulisine,DB01309,Rabson-Mendenhall syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin-lispro,DB00046,Donohue syndrome,D056731,Agonist,LOF,therapeutic effect
+Insulin-lispro,DB00046,Rabson-Mendenhall syndrome,D056731,Agonist,LOF,therapeutic effect
+"Interferon Alfa-2a, Recombinant",DB00034,Apert syndrome,D000168,Agonist,GOF,side effect
+"Interferon Alfa-2a, Recombinant",DB00034,Beare-Stevenson cutis gyrata syndrome,C565129,Agonist,GOF,side effect
+Irbesartan,DB01029,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Iron Dextran,DB00893,"Heinz body anemias, alpha-",C563030,Agonist,LOF,therapeutic effect
+Iron Dextran,DB00893,Hemoglobin H disease,D017085,Agonist,LOF,therapeutic effect
+Iron Dextran,DB00893,"Thalassemias, alpha-",not available,Agonist,LOF,therapeutic effect
+Iron,DB01592,"Heinz body anemias, alpha-",C563030,Agonist,LOF,therapeutic effect
+Iron,DB01592,Hemoglobin H disease,D017085,Agonist,LOF,therapeutic effect
+Iron,DB01592,"Thalassemias, alpha-",not available,Agonist,LOF,therapeutic effect
+Isocarboxazid,DB01247,Brunner syndrome,C563156,Inhibitor,LOF,side effect
+Isoflurane,DB00753,Childhood absence epilepsy,D004832,Antagonist,LOF,side effect
+Isoflurane,DB00753,Juvenile myoclonic epilepsy,not available,Antagonist,LOF,side effect
+Isoflurophate,DB00677,"Apnea, postanesthetic",C535825,Inhibitor,LOF,side effect
+Isotretinoin,DB00982,Acute promyelocytic leukemia,D015473,Agonist,GOF,side effect
+Isradipine,DB00270,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Isradipine,DB00270,Timothy syndrome,not available,Inhibitor,GOF,therapeutic effect
+L-Carnitine,DB00583,"CPT deficiency, hepatic, type IA",C562811,Agonist,LOF,therapeutic effect
+L-Phenylalanine,DB00120,Segawa syndrome,not available,Agonist,LOF,therapeutic effect
+L-Proline,DB00172,"Osteogenesis imperfecta, type IX",C564921,Agonist,LOF,therapeutic effect
+L-Tyrosine,DB00135,Segawa syndrome,not available,Agonist,LOF,therapeutic effect
+Labetalol,DB00598,Asthma,D001249,Antagonist,LOF,side effect
+Labetalol,DB00598,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Lapatinib,DB01259,Adenocarcinoma of lung,C538231,Inhibitor,GOF,therapeutic effect
+Lapatinib,DB01259,Gastric cancer,D013274,Inhibitor,GOF,therapeutic effect
+Lapatinib,DB01259,Glioblastoma,D005909,Inhibitor,GOF,therapeutic effect
+Lapatinib,DB01259,Nonsmall cell lung cancer,D002289,Inhibitor,GOF,therapeutic effect
+Lapatinib,DB01259,Ovarian cancer,D010051,Inhibitor,GOF,therapeutic effect
+Lasofoxifene,not available,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Lasofoxifene,not available,Breast cancer,D001943,Agonist,GOF,side effect
+Lasofoxifene,not available,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Lasofoxifene,not available,Migraine,D008881,Agonist,LOF,therapeutic effect
+Lasofoxifene,not available,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Leflunomide,DB01097,Miller syndrome,not available,Inhibitor,LOF,side effect
+Lenalidomide,DB00480,Asthma,D001249,Inhibitor,GOF,therapeutic effect
+Lenalidomide,DB00480,Vascular dementia,D015140,Inhibitor,GOF,therapeutic effect
+Lepirudin,DB00001,Dysprothrombinemia,C562724,Inhibitor,LOF,side effect
+Lepirudin,DB00001,Hypoprothrombinemia,D007020,Inhibitor,LOF,side effect
+Lepirudin,DB00001,"Stroke, ischemic",not available,Inhibitor,LOF,side effect
+Lepirudin,DB00001,Thrombophilia due to thrombin defect,D020151,Inhibitor,LOF,side effect
+Letrozole,DB01006,Aromatase deficiency,C537436,Inhibitor,LOF,side effect
+Letrozole,DB01006,Aromatase excess syndrome,C537436,Inhibitor,GOF,therapeutic effect
+Leuprolide,DB00007,Fertile eunuch syndrome,C537919,Antagonist,LOF,side effect
+Leuprolide,DB00007,Hypogonadotropic hypogonadism,D007006,Antagonist,LOF,side effect
+Levamisole,DB00848,Hypophosphatasia,D007014,Inhibitor,LOF,side effect
+Levamisole,DB00848,Odontohypophosphatasia,C564146,Inhibitor,LOF,side effect
+Levobetaxolol,not available,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Levobunolol,DB01210,Asthma,D001249,Antagonist,LOF,side effect
+Levobunolol,DB01210,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Levodopa,DB01235,Myoclonus-dystonia syndrome,D020820,Agonist,LOF,therapeutic effect
+Levosimendan,DB00922,"Cardiomyopathy, dilated",D002311,Agonist,LOF,therapeutic effect
+Levosimendan,DB00922,"Cardiomyopathy, familial hypertrophic",D024741,Agonist,GOF,side effect
+Lidocaine,DB00281,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Lidocaine,DB00281,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Lidocaine,DB00281,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Lidocaine,DB00281,Insensitivity to pain,D000699,Inhibitor,LOF,side effect
+Lidocaine,DB00281,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Lidocaine,DB00281,Paroxysmal extreme pain disorder,C563475,Inhibitor,GOF,therapeutic effect
+Lidocaine,DB00281,Primary erythermalgia,D004916,Inhibitor,GOF,therapeutic effect
+Lidocaine,DB00281,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Lidocaine,DB00281,Small fiber neuropathy,not available,Inhibitor,GOF,therapeutic effect
+Lidocaine,DB00281,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Lisdexamfetamine,DB01255,"Parkinsonism-dystonia, infantile",D020734,Inhibitor,LOF,side effect
+Lisinopril,DB00722,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Lisinopril,DB00722,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Lisinopril,DB00722,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Lisinopril,DB00722,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Lisinopril,DB00722,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Lorazepam,DB00186,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Lorazepam,DB00186,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Losartan,DB00678,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Loteprednol Etabonate,DB00873,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Loxapine,DB00408,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Lubiprostone,DB01046,Epilepsy,D004827,Agonist,LOF,therapeutic effect
+Lutropin alfa,DB00044,Leydig cell adenoma,D007984,Agonist,GOF,side effect
+Lutropin alfa,DB00044,Leydig cell hypoplasia,not available,Agonist,LOF,therapeutic effect
+Lutropin alfa,DB00044,"Luteinizing hormone resistance, female",D007986,Agonist,LOF,therapeutic effect
+Lutropin alfa,DB00044,"Precocious puberty, male",D011629,Agonist,GOF,side effect
+Masoprocol,DB00179,Atherosclerosis,D050197,Inhibitor,LOF,side effect
+Mecamylamine,DB00657,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Medrysone,DB00253,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Menotropins,not available,Leydig cell adenoma,D007984,Agonist,GOF,side effect
+Menotropins,not available,Leydig cell hypoplasia,not available,Agonist,LOF,therapeutic effect
+Menotropins,not available,"Luteinizing hormone resistance, female",D007986,Agonist,LOF,therapeutic effect
+Menotropins,not available,"Precocious puberty, male",D011629,Agonist,GOF,side effect
+Mephenytoin,DB00532,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Mephenytoin,DB00532,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Mephenytoin,DB00532,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Mephenytoin,DB00532,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Mephenytoin,DB00532,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Mephenytoin,DB00532,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Meprobamate,DB00371,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Meprobamate,DB00371,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Mesoridazine,DB00933,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Mestranol,DB01357,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Mestranol,DB01357,Breast cancer,D001943,Agonist,GOF,side effect
+Mestranol,DB01357,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Mestranol,DB01357,Migraine,D008881,Agonist,LOF,therapeutic effect
+Mestranol,DB01357,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Methimazole,DB00763,Thyroid dyshormonogenesis 2A,not available,Inhibitor,LOF,side effect
+Methohexital,DB00474,Childhood absence epilepsy,D004832,Antagonist,LOF,side effect
+Methohexital,DB00474,Juvenile myoclonic epilepsy,not available,Antagonist,LOF,side effect
+Methoxyflurane,DB01028,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Methoxyflurane,DB01028,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Methyclothiazide,DB00232,Bartter syndrome type 1,C537652,Inhibitor,LOF,side effect
+Methyl aminolevulinate,DB00992,Erythropoietic protoporphyria,D046351,Agonist,LOF,therapeutic effect
+Methylphenidate,DB00422,"Parkinsonism-dystonia, infantile",D020734,Inhibitor,LOF,side effect
+Methylphenobarbital,DB00849,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Methylphenobarbital,DB00849,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Methylprednisolone,DB00959,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Methyprylon,DB01107,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Methyprylon,DB01107,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Methysergide,DB00247,Schizophrenia,D012559,Antagonist,GOF,side effect
+Metipranolol,DB01214,Asthma,D001249,Antagonist,LOF,side effect
+Metipranolol,DB01214,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Metixene,DB00340,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Metoclopramide,DB01233,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Metocurine Iodide,DB00416,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Metocurine,DB01336,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Metolazone,DB00524,Bartter syndrome type 1,C537652,Inhibitor,LOF,side effect
+Metolazone,DB00524,Gitelman syndrome,D053579,Inhibitor,LOF,side effect
+Metoprolol,DB00264,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Metyrapone,DB01011,"Congenital adrenal hyperplasia, due to 11-beta-hydroxylase deficiency",C535978,Inhibitor,LOF,side effect
+Metyrosine,DB00765,Segawa syndrome,not available,Agonist,LOF,therapeutic effect
+Mexiletine,DB00379,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Mexiletine,DB00379,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Mexiletine,DB00379,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Mexiletine,DB00379,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Mexiletine,DB00379,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Mexiletine,DB00379,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Midazolam,DB00683,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Midazolam,DB00683,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Mirtazapine,DB00370,Schizophrenia,D012559,Antagonist,GOF,side effect
+Misoprostol,DB00929,Asthma,D001249,Agonist,LOF,therapeutic effect
+Mitiglinide,DB01252,SESAME syndrome,not available,Inhibitor,LOF,side effect
+Mitotane,DB00648,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Mitotane,DB00648,Breast cancer,D001943,Agonist,GOF,side effect
+Mitotane,DB00648,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Mitotane,DB00648,Migraine,D008881,Agonist,LOF,therapeutic effect
+Mitotane,DB00648,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Mivacurium,DB01226,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Moclobemide,DB01171,Brunner syndrome,C563156,Inhibitor,LOF,side effect
+Moexipril,DB00691,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Moexipril,DB00691,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Moexipril,DB00691,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Moexipril,DB00691,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Moexipril,DB00691,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Molindone,DB01618,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Mometasone,DB00764,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Monobenzone,DB00600,"Albinism, oculocutaneous, type IA",C537728,Inhibitor,LOF,side effect
+Monobenzone,DB00600,"Albinism, oculocutaneous, type IB",C537729,Inhibitor,LOF,side effect
+Moricizine,DB00680,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Moricizine,DB00680,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Moricizine,DB00680,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Moricizine,DB00680,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Moricizine,DB00680,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Moricizine,DB00680,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Muromonab,DB00075,Immunodeficiency due to defect in CD3-epsilon,not available,Antibody,LOF,side effect
+Muromonab,DB00075,Severe combined immunodeficiency,D016511,Antibody,LOF,side effect
+N-Acetyl-D-glucosamine,DB00141,Mucopolysaccharidosis type IIIB (Sanfilippo B),D009083,Agonist,LOF,therapeutic effect
+Nadolol,DB01203,Asthma,D001249,Antagonist,LOF,side effect
+Nadolol,DB01203,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Nafarelin,DB00666,Fertile eunuch syndrome,C537919,Agonist,LOF,therapeutic effect
+Nafarelin,DB00666,Hypogonadotropic hypogonadism,D007006,Agonist,LOF,therapeutic effect
+Nandrolone,DB08804,Androgen insensitivity,D013734,Agonist,LOF,therapeutic effect
+Nandrolone,DB08804,Prostate cancer,D011471,Agonist,GOF,side effect
+Nateglinide,DB00731,SESAME syndrome,not available,Inhibitor,LOF,side effect
+Nebivolol,DB04861,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Nefazodone,DB01149,Schizophrenia,D012559,Antagonist,GOF,side effect
+Nemonapride,not available,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Nicardipine,DB00622,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Nicardipine,DB00622,Timothy syndrome,not available,Inhibitor,GOF,therapeutic effect
+Nicotine,DB00184,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Agonist,GOF,side effect
+Nilutamide,DB00665,Androgen insensitivity,D013734,Antagonist,LOF,side effect
+Nitrazepam,DB01595,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Nitrazepam,DB01595,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Nitroprusside,DB00325,Spinocerebellar ataxia,D020754,Antagonist,LOF,side effect
+Olanzapine,DB00334,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Olmesartan medoxomil,DB00275,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Olmesartan,DB00275,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Oprelvekin,DB00038,Craniosynostosis and dental anomalies,D003398,Agonist,LOF,therapeutic effect
+Oxandrolone,DB00621,Androgen insensitivity,D013734,Agonist,LOF,therapeutic effect
+Oxandrolone,DB00621,Prostate cancer,D011471,Agonist,GOF,side effect
+Oxazepam,DB00842,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Oxazepam,DB00842,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Oxcarbazepine,DB00776,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Oxcarbazepine,DB00776,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Oxcarbazepine,DB00776,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Oxcarbazepine,DB00776,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Oxcarbazepine,DB00776,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Oxcarbazepine,DB00776,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Oxprenolol,DB01580,Asthma,D001249,Antagonist,LOF,side effect
+Oxtriphylline,DB01303,Acrodysostosis,C538179,Inhibitor,LOF,side effect
+Oxtriphylline,DB01303,Ischemic stroke,not available,Inhibitor,LOF,side effect
+Oxybutynin,DB01062,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Oxyphencyclimine,DB00383,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Palifermin,DB00039,Apert syndrome,D000168,Agonist,GOF,side effect
+Palifermin,DB00039,Beare-Stevenson cutis gyrata syndrome,C565129,Agonist,GOF,side effect
+Paliperidone,DB01267,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Pancuronium,DB01337,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Panitumumab,DB01269,Nonsmall cell lung cancer,D002289,Inhibitor,GOF,therapeutic effect
+Paramethasone,DB01384,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Paricalcitol,DB00910,"Rickets, vitamin D-resistant, type IIA",D053098,Agonist,LOF,therapeutic effect
+Pazopanib hydrochloride,not available,Acute myeloid leukemia,D015470,Inhibitor,GOF,therapeutic effect
+Pazopanib hydrochloride,not available,Gastrointestinal stromal tumor,D046152,Inhibitor,GOF,therapeutic effect
+Pazopanib hydrochloride,not available,Germ cell tumors,D009373,Inhibitor,GOF,therapeutic effect
+Pazopanib hydrochloride,not available,Hemangioma,D006391,Inhibitor,LOF,side effect
+Pazopanib hydrochloride,not available,Mast cell leukemia,D007938,Inhibitor,GOF,therapeutic effect
+Pazopanib hydrochloride,not available,Mastocytosis,D008415,Inhibitor,GOF,therapeutic effect
+Pazopanib hydrochloride,not available,Piebaldism,D016116,Inhibitor,LOF,side effect
+Pegfilgrastim,DB00019,Leukoencephalopathy,D056784,Agonist,LOF,therapeutic effect
+Pegvisomant,DB00082,Hypercholesterolemia,D006937,Antagonist,LOF,side effect
+Pemetrexed,DB00642,Megaloblastic anemia due to dihydrofolate reductase deficiency,D000749,Inhibitor,LOF,side effect
+Penbutolol,DB01359,Asthma,D001249,Antagonist,LOF,side effect
+Penbutolol,DB01359,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Pentobarbital,DB00312,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Pentobarbital,DB00312,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Pentolinium,DB01090,Epilepsy,D004827,Antagonist,GOF,side effect
+Pentosan Polysulfate,DB00686,Apert syndrome,D000168,Inhibitor,GOF,therapeutic effect
+Pentosan Polysulfate,DB00686,Beare-Stevenson cutis gyrata syndrome,C565129,Inhibitor,GOF,therapeutic effect
+Pentostatin,DB00552,Adenosine deaminase deficiency,C531816,Inhibitor,LOF,side effect
+Pentoxifylline,DB00806,Asthma,D001249,Inhibitor,GOF,therapeutic effect
+Pentoxifylline,DB00806,Vascular dementia,D015140,Inhibitor,GOF,therapeutic effect
+Pergolide,DB01186,Myoclonus-dystonia syndrome,D020820,Agonist,LOF,therapeutic effect
+Perhexiline,DB01074,"CPT deficiency, hepatic, type IA",C562811,Inhibitor,LOF,side effect
+Perindopril,DB00790,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Perindopril,DB00790,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Perindopril,DB00790,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Perindopril,DB00790,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Perindopril,DB00790,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Perphenazine,DB00850,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Phenacemide,DB01121,Dravet syndrome,D004831,Inhibitor,LOF,side effect
+Phenacemide,DB01121,"Febrile seizures, familial, 3A",C567820,Inhibitor,LOF,side effect
+Phenacemide,DB01121,"Migraine, familial hemiplegic",C566500,Inhibitor,LOF,side effect
+Phenelzine,DB00780,Brunner syndrome,C563156,Inhibitor,LOF,side effect
+Phenindione,DB00498,Vitamin K-dependent clotting factors deficiency,C564741,Inhibitor,LOF,side effect
+Phenobarbital,DB01174,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Phenobarbital,DB01174,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Phenprocoumon,DB00946,Vitamin K-dependent clotting factors deficiency,C564741,Inhibitor,LOF,side effect
+Phenytoin,DB00252,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Phenytoin,DB00252,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Phenytoin,DB00252,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Phenytoin,DB00252,Dravet syndrome,D004831,Inhibitor,LOF,side effect
+Phenytoin,DB00252,"Febrile seizures, familial, 3A",C567820,Inhibitor,LOF,side effect
+Phenytoin,DB00252,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Phenytoin,DB00252,"Migraine, familial hemiplegic",C566500,Inhibitor,LOF,side effect
+Phenytoin,DB00252,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Phenytoin,DB00252,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Phytonadione,DB01022,Vitamin K-dependent clotting factors deficiency,C564741,Agonist,LOF,therapeutic effect
+Picrotoxin,DB00466,Childhood absence epilepsy,D004832,Antagonist,LOF,side effect
+Picrotoxin,DB00466,Juvenile myoclonic epilepsy,not available,Antagonist,LOF,side effect
+Pilocarpine,DB01085,Eagle-Barrett syndrome,D011535,Agonist,LOF,therapeutic effect
+Pimozide,DB01100,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Pindolol,DB00960,Asthma,D001249,Antagonist,LOF,side effect
+Pindolol,DB00960,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Pioglitazone,DB01132,Colon cancer,D003110,Agonist,LOF,therapeutic effect
+Pioglitazone,DB01132,"Familial partial lipodystrophy, type 3",D052496,Agonist,LOF,therapeutic effect
+Pioglitazone,DB01132,Insulin resistance,D007333,Agonist,LOF,therapeutic effect
+Pioglitazone,DB01132,"Obesity, severe",D009765,Agonist,GOF,side effect
+Pipecuronium,DB01338,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Polythiazide,DB01324,Gitelman syndrome,D053579,Inhibitor,LOF,side effect
+Practolol,DB01297,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Pralatrexate,not available,Megaloblastic anemia due to dihydrofolate reductase deficiency,D000749,Inhibitor,LOF,side effect
+Pramipexole,DB00413,Essential tremor,D020329,Agonist,GOF,side effect
+Pramipexole,DB00413,Myoclonus-dystonia syndrome,D020820,Agonist,LOF,therapeutic effect
+Pramipexole,DB00413,Schizophrenia,D012559,Agonist,GOF,side effect
+Prasugrel,DB06209,"Bleeding disorder, platelet-type",C565129,Antagonist,LOF,side effect
+Prazepam,DB01588,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Prazepam,DB01588,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Prednicarbate,DB01130,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Prednisolone,DB00860,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Prednisone,DB00635,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Prilocaine,DB00750,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Prilocaine,DB00750,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Prilocaine,DB00750,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Prilocaine,DB00750,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Prilocaine,DB00750,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Prilocaine,DB00750,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Procainamide,DB01035,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Procainamide,DB01035,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Procainamide,DB01035,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Procainamide,DB01035,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Procainamide,DB01035,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Procainamide,DB01035,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Prochlorperazine,DB00433,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Progesterone,DB00396,"17-alpha-hydroxylase/17,20-lyase deficiency",C567076,Inhibitor,LOF,side effect
+Promacta,not available,Myelofibrosis with myeloid metaplasia,D055728,Agonist,GOF,side effect
+Promacta,not available,Thrombocythemia,D013922,Agonist,GOF,side effect
+Promazine,DB00420,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Propafenone,DB01182,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Propafenone,DB01182,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Propafenone,DB01182,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Propafenone,DB01182,Long QT syndrome-2,C563614,Inhibitor,LOF,side effect
+Propafenone,DB01182,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Propafenone,DB01182,Short QT syndrome-1,C566506,Inhibitor,GOF,therapeutic effect
+Propafenone,DB01182,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Propafenone,DB01182,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Proparacaine,DB00807,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Proparacaine,DB00807,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Proparacaine,DB00807,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Proparacaine,DB00807,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Proparacaine,DB00807,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Proparacaine,DB00807,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Propiomazine,DB00777,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Propiomazine,DB00777,Schizophrenia,D012559,Antagonist,GOF,side effect
+Propofol,DB00818,Drug addiction,D019966,Inhibitor,LOF,side effect
+Propranolol,DB00571,Asthma,D001249,Antagonist,LOF,side effect
+Propranolol,DB00571,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Propylthiouracil,DB00550,Thyroid dyshormonogenesis 2A,not available,Inhibitor,LOF,side effect
+Pseudoephedrine,DB00852,Asthma,D001249,Agonist,LOF,therapeutic effect
+Quazepam,DB01589,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Quazepam,DB01589,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Quetiapine,DB01224,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Quinagolide,not available,Myoclonus-dystonia syndrome,D020820,Agonist,LOF,therapeutic effect
+Quinapril,DB00881,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Quinapril,DB00881,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Quinapril,DB00881,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Quinapril,DB00881,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Quinapril,DB00881,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Quinestrol,DB04575,Atherosclerosis,D050197,Antagonist,LOF,side effect
+Quinestrol,DB04575,Estrogen resistance,not available,Antagonist,LOF,side effect
+Quinestrol,DB04575,Migraine,D008881,Antagonist,LOF,side effect
+Quinestrol,DB04575,Myocardial infarction,D009203,Antagonist,LOF,side effect
+Quinethazone,DB01325,Gitelman syndrome,D053579,Inhibitor,LOF,side effect
+Quinidine,DB00908,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Quinidine,DB00908,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Quinidine,DB00908,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Quinidine,DB00908,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Quinidine,DB00908,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Quinidine,DB00908,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Raloxifene,DB00481,Atherosclerosis,D050197,Agonist,LOF,therapeutic effect
+Raloxifene,DB00481,Breast cancer,D001943,Agonist,GOF,side effect
+Raloxifene,DB00481,Estrogen resistance,not available,Agonist,LOF,therapeutic effect
+Raloxifene,DB00481,Migraine,D008881,Agonist,LOF,therapeutic effect
+Raloxifene,DB00481,Myocardial infarction,D009203,Agonist,LOF,therapeutic effect
+Ramelteon,DB00980,Type 2 diabetes mellitus,D003924,Agonist,LOF,therapeutic effect
+Ramipril,DB00178,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Ramipril,DB00178,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Ramipril,DB00178,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Ramipril,DB00178,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Ramipril,DB00178,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Ranolazine,DB00243,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Ranolazine,DB00243,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Ranolazine,DB00243,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Ranolazine,DB00243,Insensitivity to pain,D000699,Inhibitor,LOF,side effect
+Ranolazine,DB00243,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Ranolazine,DB00243,Paroxysmal extreme pain disorder,C563475,Inhibitor,GOF,therapeutic effect
+Ranolazine,DB00243,Primary erythermalgia,D004916,Inhibitor,GOF,therapeutic effect
+Ranolazine,DB00243,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Ranolazine,DB00243,Small fiber neuropathy,not available,Inhibitor,GOF,therapeutic effect
+Ranolazine,DB00243,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Remikiren,DB00212,Hyperuricemic nephropathy,not available,Inhibitor,LOF,side effect
+Remikiren,DB00212,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Remoxipride,DB00409,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Rescinnamine,DB01180,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Rescinnamine,DB01180,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Rescinnamine,DB01180,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Rescinnamine,DB01180,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Rescinnamine,DB01180,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Retigabine,not available,Deafness,D003638,Agonist,LOF,therapeutic effect
+Ridogrel,DB01207,"Bleeding disorder, platelet-type",C565129,Antagonist,LOF,side effect
+Rimexolone,DB00896,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Risperidone,DB00734,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Ritodrine,DB00867,Asthma,D001249,Agonist,LOF,therapeutic effect
+Rituximab,DB00073,"Immunodeficiency, common variable",not available,Antibody,LOF,side effect
+Rivastigmine,DB00989,"Apnea, postanesthetic",C535825,Inhibitor,LOF,side effect
+Rocuronium,DB00728,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Ropinirole,DB00268,Essential tremor,D020329,Agonist,GOF,side effect
+Ropinirole,DB00268,Myoclonus-dystonia syndrome,D020820,Agonist,LOF,therapeutic effect
+Ropinirole,DB00268,Schizophrenia,D012559,Agonist,GOF,side effect
+Rosiglitazone,DB00412,Colon cancer,D003110,Agonist,LOF,therapeutic effect
+Rosiglitazone,DB00412,"Familial partial lipodystrophy, type 3",D052496,Agonist,LOF,therapeutic effect
+Rosiglitazone,DB00412,Insulin resistance,D007333,Agonist,LOF,therapeutic effect
+Rosiglitazone,DB00412,"Obesity, severe",D009765,Agonist,GOF,side effect
+Saprisartan,DB01347,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Sargramostim,DB00020,Pulmonary alveolar proteinosis,D011649,Agonist,LOF,therapeutic effect
+Sarpogrelate,not available,Schizophrenia,D012559,Antagonist,GOF,side effect
+Secobarbital,DB00418,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Secobarbital,DB00418,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Sertindole,DB06144,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Sevoflurane,DB01236,Childhood absence epilepsy,D004832,Antagonist,LOF,side effect
+Sevoflurane,DB01236,Juvenile myoclonic epilepsy,not available,Antagonist,LOF,side effect
+Sodium Tetradecyl Sulfate,DB00464,Thrombophilia due to protein C deficiency,D020152,Inhibitor,LOF,side effect
+Sodium bicarbonate,DB01390,Childhood absence epilepsy,D004832,Inhibitor,GOF,therapeutic effect
+Sodium bicarbonate,DB01390,Idiopathic generalized epilepsy,C562694,Inhibitor,GOF,therapeutic effect
+Solifenacin,DB01591,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Somatropin recombinant,DB00052,Hypercholesterolemia,D006937,Agonist,LOF,therapeutic effect
+Sorafenib,DB00398,Acute lymphoblastic leukemia,D054198,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Acute myeloid leukemia,D015470,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Adenocarcinoma of lung,C538231,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Cardiofaciocutaneous syndrome,C535579,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Central hypoventilation syndrome,C536209,Inhibitor,LOF,side effect
+Sorafenib,DB00398,Colorectal cancer,D015179,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Gastrointestinal stromal tumor,D046152,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Germ cell tumors,D009373,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Hirschsprung disease,D006627,Inhibitor,LOF,side effect
+Sorafenib,DB00398,LEOPARD syndrome,D044542,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Malignant melanoma,D008545,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Mast cell leukemia,D007938,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Mastocytosis,D008415,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Medullary thyroid carcinoma,D013964,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Multiple endocrine neoplasia IIA,D009377,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Multiple endocrine neoplasia IIB,D009377,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Nonsmall cell lung cancer,D002289,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Noonan syndrome,D009634,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Pheochromocytoma,D010673,Inhibitor,GOF,therapeutic effect
+Sorafenib,DB00398,Piebaldism,D016116,Inhibitor,LOF,side effect
+Sorafenib,DB00398,Renal agenesis,D051437,Inhibitor,LOF,side effect
+Sotalol,DB00489,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Sotalol,DB00489,Long QT syndrome-2,C563614,Inhibitor,LOF,side effect
+Sotalol,DB00489,Short QT syndrome-1,C566506,Inhibitor,GOF,therapeutic effect
+Spirapril,DB01348,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Spirapril,DB01348,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Spirapril,DB01348,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Spirapril,DB01348,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Spirapril,DB01348,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Spironolactone,DB00421,Pseudohypoaldosteronism type I,D011546,Antagonist,LOF,side effect
+Succinic acid,DB00139,Succinic semialdehyde dehydrogenase deficiency,C535803,Inhibitor,LOF,side effect
+Succinylcholine,DB00202,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Sulpiride,DB00391,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Sunitinib,DB01268,Acute myeloid leukemia,D015470,Antagonist,GOF,side effect
+Sunitinib,DB01268,Germ cell tumors,D009373,Antagonist,GOF,side effect
+Sunitinib,DB01268,Mast cell leukemia,D007938,Antagonist,GOF,side effect
+Sunitinib,DB01268,Mastocytosis,D008415,Antagonist,GOF,side effect
+Sunitinib,DB01268,Piebaldism,D016116,Antagonist,LOF,side effect
+Sunitinib,DB01268,Acute lymphoblastic leukemia,D054198,Inhibitor,GOF,therapeutic effect
+Sunitinib,DB01268,Acute myeloid leukemia,D015470,Inhibitor,GOF,therapeutic effect
+Sunitinib,DB01268,Hemangioma,D006391,Inhibitor,LOF,side effect
+Talbutal,DB00306,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Talbutal,DB00306,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Tamoxifen,DB00675,Atherosclerosis,D050197,Antagonist,LOF,side effect
+Tamoxifen,DB00675,Estrogen resistance,not available,Antagonist,LOF,side effect
+Tamoxifen,DB00675,Migraine,D008881,Antagonist,LOF,side effect
+Tamoxifen,DB00675,Myocardial infarction,D009203,Antagonist,LOF,side effect
+Tasosartan,DB01349,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Tazarotene,DB00799,Acute promyelocytic leukemia,D015473,Agonist,GOF,side effect
+Telmisartan,DB00966,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Temazepam,DB00231,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Temazepam,DB00231,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Testolactone,DB00894,Aromatase deficiency,C537436,Inhibitor,LOF,side effect
+Testolactone,DB00894,Aromatase excess syndrome,C537436,Inhibitor,GOF,therapeutic effect
+Testosterone,DB00624,Androgen insensitivity,D013734,Agonist,LOF,therapeutic effect
+Testosterone,DB00624,Prostate cancer,D011471,Agonist,GOF,side effect
+Tetrahydrobiopterin,DB00360,Segawa syndrome,not available,Agonist,LOF,therapeutic effect
+Thalidomide,DB01041,Asthma,D001249,Inhibitor,GOF,therapeutic effect
+Thalidomide,DB01041,Vascular dementia,D015140,Inhibitor,GOF,therapeutic effect
+Thiamylal,DB01154,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Thiamylal,DB01154,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Thiethylperazine,DB00372,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Thiopental,DB00599,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Thiopental,DB00599,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Thioridazine,DB00679,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Thyrotropin Alfa,DB00024,Hyperthyroidism,D006980,Agonist,GOF,side effect
+Thyrotropin Alfa,DB00024,Hypothyroidism,D007037,Agonist,LOF,therapeutic effect
+Thyrotropin Alfa,DB00024,Thyroid adenoma,D013964,Agonist,GOF,side effect
+Tiagabine,DB00906,GABA-transaminase deficiency,not available,Inhibitor,LOF,side effect
+Ticlopidine,DB00208,"Bleeding disorder, platelet-type",C565129,Antagonist,LOF,side effect
+Timolol,DB00373,Asthma,D001249,Antagonist,LOF,side effect
+Timolol,DB00373,Congestive heart failure,D006333,Antagonist,GOF,side effect
+Tiotropium,DB01409,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Tocainide,DB01056,"Atrial fibrillation, familial",C538261,Inhibitor,GOF,therapeutic effect
+Tocainide,DB01056,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Tocainide,DB01056,Cardiomyopathy,D009202,Inhibitor,LOF,side effect
+Tocainide,DB01056,Long QT syndrome-3,C565840,Inhibitor,GOF,therapeutic effect
+Tocainide,DB01056,Sick sinus syndrome,D012804,Inhibitor,LOF,side effect
+Tocainide,DB01056,"Ventricular fibrillation, familial",D014693,Inhibitor,LOF,side effect
+Tolazamide,DB00839,SESAME syndrome,not available,Inhibitor,LOF,side effect
+Tolcapone,DB00323,Schizophrenia,D012559,Inhibitor,LOF,side effect
+Tolterodine,DB01036,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Tolvaptan,not available,Diabetes insipidus,D003919,Antagonist,LOF,side effect
+Topiramate,DB00273,Dravet syndrome,D004831,Inhibitor,LOF,side effect
+Topiramate,DB00273,"Febrile seizures, familial, 3A",C567820,Inhibitor,LOF,side effect
+Topiramate,DB00273,"Migraine, familial hemiplegic",C566500,Inhibitor,LOF,side effect
+Torasemide,DB00214,Bartter syndrome type 1,C537652,Inhibitor,LOF,side effect
+Toremifene,DB00539,Atherosclerosis,D050197,Antagonist,LOF,side effect
+Toremifene,DB00539,Estrogen resistance,not available,Antagonist,LOF,side effect
+Toremifene,DB00539,Migraine,D008881,Antagonist,LOF,side effect
+Toremifene,DB00539,Myocardial infarction,D009203,Antagonist,LOF,side effect
+Tositumomab,DB00081,"Immunodeficiency, common variable",not available,Antibody,LOF,side effect
+Trandolapril,DB00519,Alzheimer's disease,D000544,Inhibitor,GOF,therapeutic effect
+Trandolapril,DB00519,Microvascular complications of diabetes,D003925,Inhibitor,GOF,therapeutic effect
+Trandolapril,DB00519,Myocardial infarction,D009203,Inhibitor,GOF,therapeutic effect
+Trandolapril,DB00519,Renal tubular dysgenesis,D015499,Inhibitor,LOF,side effect
+Trandolapril,DB00519,"Stroke, hemorrhagic",not available,Inhibitor,GOF,therapeutic effect
+Tranylcypromine,DB00752,Brunner syndrome,C563156,Inhibitor,LOF,side effect
+Trastuzumab,DB00072,Adenocarcinoma of lung,C538231,Inhibitor,GOF,therapeutic effect
+Trastuzumab,DB00072,Gastric cancer,D013274,Inhibitor,GOF,therapeutic effect
+Trastuzumab,DB00072,Glioblastoma,D005909,Inhibitor,GOF,therapeutic effect
+Trastuzumab,DB00072,Ovarian cancer,D010051,Inhibitor,GOF,therapeutic effect
+Trazodone,DB00656,Schizophrenia,D012559,Antagonist,GOF,side effect
+Triamcinolone,DB00620,Cortisol resistance,C535280,Agonist,LOF,therapeutic effect
+Triamterene,DB00384,Bronchiectasis,D001987,Inhibitor,GOF,therapeutic effect
+Triamterene,DB00384,"Pseudohypoaldosteronism, type I",D011546,Inhibitor,LOF,side effect
+Triazolam,DB00897,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Triazolam,DB00897,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Trichlormethiazide,DB01021,Bartter syndrome type 1,C537652,Inhibitor,LOF,side effect
+Tridihexethyl,DB00505,Eagle-Barrett syndrome,D011535,Antagonist,LOF,side effect
+Trifluoperazine,DB00831,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Triflupromazine,DB00508,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Trimethaphan,DB01116,Epilepsy,D004827,Antagonist,GOF,side effect
+Trimetrexate,DB01157,Megaloblastic anemia due to dihydrofolate reductase deficiency,D000749,Inhibitor,LOF,side effect
+Troglitazone,DB00197,Colon cancer,D003110,Agonist,LOF,therapeutic effect
+Troglitazone,DB00197,"Familial partial lipodystrophy, type 3",D052496,Agonist,LOF,therapeutic effect
+Troglitazone,DB00197,Insulin resistance,D007333,Agonist,LOF,therapeutic effect
+Troglitazone,DB00197,"Obesity, severe",D009765,Agonist,GOF,side effect
+Tubocurarine,DB01199,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Ursodeoxycholic acid,DB01586,Hyperbiliverdinemia,not available,Agonist,LOF,therapeutic effect
+Valproic Acid,DB00313,GABA-transaminase deficiency,not available,Inhibitor,LOF,side effect
+Valsartan,DB00177,Renal tubular dysgenesis,D015499,Antagonist,LOF,side effect
+Varenicline,DB01273,Epilepsy,D004827,Agonist,GOF,side effect
+Vecuronium,DB01339,"Epilepsy, nocturnal frontal lobe, type 4",C563679,Antagonist,GOF,side effect
+Verapamil,DB00661,Brugada syndrome,D053840,Inhibitor,LOF,side effect
+Verapamil,DB00661,Timothy syndrome,not available,Inhibitor,GOF,therapeutic effect
+Vigabatrin,DB01080,GABA-transaminase deficiency,not available,Inhibitor,LOF,side effect
+Vitamin B6,DB00165,Aromatic L-amino acid decarboxylase deficiency,C537437,Agonist,LOF,therapeutic effect
+Warfarin,DB00682,Vitamin K-dependent clotting factors deficiency,C564741,Inhibitor,LOF,side effect
+Ximelagatran,DB04898,Dysprothrombinemia,C562724,Inhibitor,LOF,side effect
+Ximelagatran,DB04898,Hypoprothrombinemia,D007020,Inhibitor,LOF,side effect
+Ximelagatran,DB04898,"Stroke, ischemic",not available,Inhibitor,LOF,side effect
+Ximelagatran,DB04898,Thrombophilia due to thrombin defect,D020151,Inhibitor,LOF,side effect
+Zaleplon,DB00962,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Zaleplon,DB00962,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Zemaira,not available,Chronic obstructive pulmonary disease,D029424,Agonist,LOF,therapeutic effect
+Zileuton,DB00744,Atherosclerosis,D050197,Inhibitor,LOF,side effect
+Ziprasidone,DB00246,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
+Zolpidem,DB00425,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Zolpidem,DB00425,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Zonisamide,DB00909,Dravet syndrome,D004831,Inhibitor,LOF,side effect
+Zonisamide,DB00909,"Febrile seizures, familial, 3A",C567820,Inhibitor,LOF,side effect
+Zonisamide,DB00909,"Migraine, familial hemiplegic",C566500,Inhibitor,LOF,side effect
+Zopiclone,DB01198,Childhood absence epilepsy,D004832,Agonist,LOF,therapeutic effect
+Zopiclone,DB01198,Juvenile myoclonic epilepsy,not available,Agonist,LOF,therapeutic effect
+Zuclopenthixol,DB01624,Myoclonus-dystonia syndrome,D020820,Antagonist,LOF,side effect
